@@ -29,7 +29,7 @@ ContentDropTask=${ShellDir}/drop_task
 SendCount=${ShellDir}/send_count
 isTermux=${ANDROID_RUNTIME_ROOT}${ANDROID_ROOT}
 Scripts2URL=https://github.com/shylocks/Loon
-ScriptsURL=https://jdscripts-1304386551.cos.ap-guangzhou.myqcloud.com
+ScriptsURL=https://gitee.com/danwangshimoluo/jdtools
 ShellURL=https://github.com/why-or-why-not/jd-base
   
 
